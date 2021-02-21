@@ -1,0 +1,62 @@
+.root{
+    -fx-background-color: #1d1f21;
+    -fx-font-size: 40;
+    -fx-font-smoothing-type: GRAY;
+    -fx-font-family: "Georgia";
+}
+
+.label{
+    -fx-text-fill: #c5c8c6;
+    -fx-min-width: 600;
+}
+
+.label-red{
+    -fx-text-fill: #cc6666;
+    -fx-min-width: 600;
+}
+
+.button{
+    -fx-background-radius: 0;
+    -fx-background-color: #969896;
+    -fx-min-width: 600;
+}
+
+.button-red{
+    -fx-background-radius: 0;
+    -fx-background-color: #d54e53;
+    -fx-text-fill: #393939;
+    -fx-min-width: 600;
+}
+
+.button-red-470{
+    -fx-background-radius: 0;
+    -fx-background-color: #d54e53;
+    -fx-text-fill: #393939;
+    -fx-min-width: 470;
+}
+
+.button-green{
+    -fx-background-radius: 0;
+    -fx-background-color: #99cc99;
+    -fx-text-fill: #393939;
+    -fx-min-width: 600;
+}
+
+.button-search{
+    -fx-background-radius: 0;
+    -fx-background-color: #969896;
+    -fx-min-width: 150;
+}
+
+.kachel-blue{
+    -fx-background-radius: 0;
+    -fx-background-color: #81a2be;
+    -fx-min-width: 150;
+    -fx-min-height: 150;
+}
+
+.text-field{
+    -fx-background-radius: 0;
+    -fx-background-color: #969896;
+    -fx-min-width: 600;
+}
